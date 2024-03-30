@@ -1,3 +1,3 @@
-module go-store/m/v2
+module go-store
 
 go 1.20
